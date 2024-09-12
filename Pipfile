@@ -9,6 +9,9 @@ ucimlrepo = "*"
 pandas = "*"
 scikit-learn = "*"
 matplotlib = "*"
+nbconvert = {extras = ["webpdf"], version = "*"}
+playwright = "*"
+mlxtend = "*"
 
 [dev-packages]
 
